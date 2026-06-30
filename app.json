@@ -15,7 +15,7 @@
       }
     },
     "android": {
-      "package": "com.appteste.mobile",
+      "package": "com.solidtech.appteste",
       "versionCode": 2,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
