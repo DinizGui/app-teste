@@ -8,7 +8,7 @@
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.appteste.mobile",
+      "bundleIdentifier": "com.apptestes.mobile",
       "buildNumber": "1",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
@@ -28,11 +28,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "owner": "leonardoexpo",
     "extra": {
       "eas": {
-        "projectId": "e408db57-b51a-4df3-89d0-b8141ef0b10e"
+        "projectId": "66109d89-eadc-4f66-99f2-4d5295ce4889"
       }
-    },
-    "owner": "dinizgui"
+    }
   }
 }
