@@ -8,11 +8,11 @@
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.solidtech.appteste",
+      "bundleIdentifier": "com.dinizgui.appteste",
       "buildNumber": "1"
     },
     "android": {
-      "package": "com.solidtech.appteste",
+      "package": "com.dinizgui.appteste",
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
