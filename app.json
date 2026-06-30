@@ -27,8 +27,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "66109d89-eadc-4f66-99f2-4d5295ce4889"
+        "projectId": "e408db57-b51a-4df3-89d0-b8141ef0b10e"
       }
-    }
+    },
+    "owner": "dinizgui"
   }
 }
